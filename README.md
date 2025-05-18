@@ -16,7 +16,7 @@ A visually engaging web project featuring a dynamic black hole animation. This p
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/Black-hole.git
+   git clone https://github.com/LingNorsk/Black-hole.git
    cd Black-hole
    ```
 
